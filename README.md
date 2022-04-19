@@ -1,26 +1,17 @@
-# voyage-tasks
+# Course Management App
 
-Your project's `readme` is as important to success as your code. For
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+## Getting Started
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point -
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+### Available Scripts
 
-> Own it & Make it your Own!
+In the project directory, you can run:
 
-Tech used
+#### `npm start`
 
-FrontEnd
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- react w/ Typescript
-- css-modules
--
-
-BackEnd
-
-- ruby on rails
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
