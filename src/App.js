@@ -13,8 +13,7 @@ function App() {
           className="text-3xl font-bold underline"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           Learn React
         </a>
       </header>
